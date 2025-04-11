@@ -1,0 +1,4 @@
+Status,count(amazon_sales.Status)
+Cancelled,77
+Pending,85
+Completed,88
